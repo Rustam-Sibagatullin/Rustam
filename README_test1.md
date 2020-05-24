@@ -46,4 +46,4 @@
 
 # заголовок Картинка
 
-![картинка1](https://github.com/Rustam-Sibagatullin/Rustam/blob/master/Capture_test.JPG)
+![картинка1](https://github.com/Rustam-Sibagatullin/Rustam/blob/master/Capture_test.JPG "Подсказка картинки")
