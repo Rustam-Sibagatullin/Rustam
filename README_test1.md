@@ -71,4 +71,4 @@
 |------------|----------|
 | value | <ul><li>value 1</li><li>value 2</li></ul> |
 | value | <ul><li>value 1</li><li>value 2</li></ul> |
-|       | <ul>value 3</li><li>value 4</ul> |
+|       | <ul>value 3</>value 4</ul> |
